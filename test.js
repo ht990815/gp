@@ -1,3 +1,3 @@
 function test() {
- console.log("我要打印的是main分支")
+ console.log("git打标签v1.0")
 }
